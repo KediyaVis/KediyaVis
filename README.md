@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KediyaVis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning github pages
-- 💞️ I’m looking to collaborate on git related cool stiff sharing
+- 👀 I’m interested in NLP, machine learning, mlops and digital transformations 
+- 🌱 I’m currently learning deep learning
 - 📫 You can reach out to me always.
 
 <!---
